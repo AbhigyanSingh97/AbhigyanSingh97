@@ -33,14 +33,14 @@ Myself Abhigyan, I'm a Data Science Researcher!! I spend most of time coding and
 
 ### **Tools**:
 
-[<img align="left" alt="Docker" width="26px" src="Tools/docker.png" />](https://docs.docker.com/engine/)
-
 [<img align="left" alt="Visual Studio Code" width="26px" src="Tools/vscode.svg" />](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
 
-[<img align="left" alt="Jupyter" width="26px" src="Tools/mysql.jpg" />](https://jupyter.org/)
+[<img align="left" alt="Jupyter" width="26px" src="Tools/jupyter.png" />](https://jupyter.org/)
 
 [<img align="left" alt="PyCharm" width="26px" src="Tools/pycharm.png" />](https://www.jetbrains.com/pycharm/)
 
 [<img align="left" alt="Colab" width="26px" src="Tools/colab.png" />](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb)
 
 [<img align="left" alt="MySQL" width="26px" src="Tools/mysql.jpg" />](https://dev.mysql.com/doc/)
+
+[<img align="left" alt="Docker" width="26px" src="Tools/docker.png" />](https://docs.docker.com/engine/)
