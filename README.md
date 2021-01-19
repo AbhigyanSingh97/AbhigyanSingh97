@@ -17,30 +17,38 @@ Myself Abhigyan, I'm a Data Science Researcher!! I spend most of time coding and
   
 ### **Connect With Me**:
 
-[<img align="left" alt="GMail" width="26px" src="Social/gmail.png" />](abhigyan548@gmail.com)
+[<img align="left" alt="GMail" width="35px" src="Social/gmail.png" />](abhigyan548@gmail.com)
 
-[<img align="left" alt="LinkedIn" width="26px" src="Social/linkedin.png" />](https://www.linkedin.com/in/abhigyan-singh-b13651121/)
+[<img align="left" alt="LinkedIn" width="35px" src="Social/linkedin.png" />](https://www.linkedin.com/in/abhigyan-singh-b13651121/)
 
 <br />
 
 ### **Languages**:
 
-[<img align="left" alt="Python" width="26px" src="Tools/python.png" />](https://docs.python.org/3/)
+[<img align="left" alt="Python" width="35px" src="Tools/python.png" />](https://docs.python.org/3/)
 
-[<img align="left" alt="R" width="26px" src="Tools/r.png" />](https://www.r-project.org/about.html)
+[<img align="left" alt="R" width="35px" src="Tools/r.png" />](https://www.r-project.org/about.html)
 
 </br>
 
 ### **Tools**:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="Tools/vscode.svg" />](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
+[<img align="left" alt="Visual Studio Code" width="35px" src="Tools/vscode.svg" />](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
 
-[<img align="left" alt="Jupyter" width="26px" src="Tools/jupyter.png" />](https://jupyter.org/)
+[<img align="left" alt="Jupyter" width="35px" src="Tools/jupyter.png" />](https://jupyter.org/)
 
-[<img align="left" alt="PyCharm" width="26px" src="Tools/pycharm.png" />](https://www.jetbrains.com/pycharm/)
+[<img align="left" alt="PyCharm" width="35px" src="Tools/pycharm.png" />](https://www.jetbrains.com/pycharm/)
 
-[<img align="left" alt="Colab" width="26px" src="Tools/colab.png" />](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb)
+[<img align="left" alt="Colab" width="35px" src="Tools/colab.png" />](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb)
 
-[<img align="left" alt="MySQL" width="26px" src="Tools/mysql.jpg" />](https://dev.mysql.com/doc/)
+[<img align="left" alt="MySQL" width="35px" src="Tools/mysql.jpg" />](https://dev.mysql.com/doc/)
 
-[<img align="left" alt="Docker" width="26px" src="Tools/docker.png" />](https://docs.docker.com/engine/)
+[<img align="left" alt="Docker" width="35px" src="Tools/docker.png" />](https://docs.docker.com/engine/)
+
+</br>
+
+### **BI Tools**:
+
+[<img align="left" alt="Tableau" width="35px" src="Tools/BI/tableau1.png" />](https://www.tableau.com/trial/tableau-software?utm_campaign_id=2017049&utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=EN&utm_country=IND&kw=tableau&adgroup=CTX-Brand+Priority-Core-EN-E&adused=484165494676&matchtype=e&placement=&gclsrc=aw.ds&&gclid=EAIaIQobChMIos-i5Zin7gIVliQrCh0BuQDZEAAYASAAEgITMvD_BwE)
+
+[<img align="left" alt="PowerBI" width="35px" src="Tools/BI/PowerBI.png" />](https://powerbi.microsoft.com/en-us/)
