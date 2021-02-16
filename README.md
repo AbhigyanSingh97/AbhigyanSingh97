@@ -9,7 +9,7 @@ Myself Abhigyan, I'm a Data Science Researcher!! I spend most of time coding and
   
 - 🌱 Passionate about Data Science and Machine Learning. **"Learning Makes Me Happy"**
   
-- 👯 I write articles on **<a href="https://medium.com/@abhigyan.singh282">Medium</a>** aiming to explain the concepts in layman terms.
+- 👯 I write articles on **<a href="https://medium.com/@abhigyan-singh282">Medium</a>** aiming to explain the concepts in layman terms.
   
 - 🥅 **2021 Goals:** 
   - Practice LeetCodes
@@ -80,7 +80,7 @@ Myself Abhigyan, I'm a Data Science Researcher!! I spend most of time coding and
 </br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhigyan.singh282/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhigyan-singh282/1" alt="Recent Article 1">
 </br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhigyan.singh282/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhigyan-singh282/2" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhigyan.singh282/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhigyan-singh282/2" alt="Recent Article 2">
 </br>
 **<a href="https://medium.com/@abhigyan-singh282">For More</a>**
 
